@@ -7,6 +7,7 @@ com.cmput301f20t21.bookfriends.fakes.callbacks
 com.cmput301f20t21.bookfriends.fakes.repositories
 com.cmput301f20t21.bookfriends.fakes.tasks
 com.cmput301f20t21.bookfriends.repositories.api
+com.cmput301f20t21.bookfriends.repositories.factories
 com.cmput301f20t21.bookfriends.repositories.impl
 com.cmput301f20t21.bookfriends.services
 com.cmput301f20t21.bookfriends.ui.borrow
